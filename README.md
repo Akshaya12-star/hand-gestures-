@@ -1,1 +1,1 @@
-This project is a handgesture detection website using python opencv.
+This project implements real-time hand gesture recognition using Python, OpenCV, and MediaPipe. It tracks hand landmarks from a webcam feed and identifies gestures such as Open Palm, Fist, Thumbs Up/Down, Peace Sign, and more. The system supports both left and right hands and displays detected gestures directly on the video stream.
