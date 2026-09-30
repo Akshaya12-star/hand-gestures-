@@ -6,7 +6,7 @@ import cv2
 import mediapipe as mp
 
 print("Hand Gesture Tracking script started!")
-
+# ------------------ Modified MediaPipe Setup ------------------
 # ------------------ MediaPipe Setup ------------------
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
